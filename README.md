@@ -1,8 +1,9 @@
 # 🗣️ Yapping Agents
 
-**Yapping Agents** is a simple program that demonstrates multiple AI agents continuously chat with each other.
+- **Yapping Agents** is a simple program that demonstrates multiple **AI agents** continuously chat with each other.
+- This program **runs LLM locally** so you don't need to rely on external api calls.
 
-Thanks to [llama.cpp](https://github.com/ggerganov/llama.cpp) for providing the tools to run the LLM agents locally.
+😇 Thanks to [llama.cpp](https://github.com/ggerganov/llama.cpp) for providing the tools to run the LLM agents locally.
 
 ## 🤔 What Does It Do?
 
