@@ -1,0 +1,20 @@
+{
+  "name": "persona-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "inspect-gpu": "npx --no node-llama-cpp inspect gpu",
+    "start": "ts-node src/app.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "node-llama-cpp": "^3.4.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^22.10.10"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "modelName": "unsloth_DeepSeek-R1-Distill-Llama-8B-GGUF_DeepSeek-R1-Distill-Llama-8B-Q4_K_M.gguf",
+  "persona": {
+    "temperature": {
+      "min": 0.8,
+      "max": 1.5
+    },
+    "personality": {
+      "traitCount": 10
+    },
+    "prompts": {
+      "system": ""
+    }
+  }
+}
